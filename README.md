@@ -1,7 +1,4 @@
 <!-- Profile README - Atakan Ozkan -->
-
-<h1 align="center">Hi :D</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineer;Bitcoin+%26+TTS+App+Builder;Ball+Sports+Fan+%7C+Fitness+Enthusiast" alt="Typing SVG" />
 </p>
